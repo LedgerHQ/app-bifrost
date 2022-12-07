@@ -1,3 +1,7 @@
+:warning: This repository contains older versions of the app Bifrost and is now read only. :warning:
+
+Newer versions' source can be found [here](https://github.com/LedgerHQ/app-bifrost-new).
+
 # Ledger Bifrost App
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -354,4 +358,3 @@ Please:
 |Unnote preimage |    |   |   | `Hash` hash <br/> |
 |Request preimage |    |   |   | `Hash` hash <br/> |
 |Unrequest preimage |    |   |   | `Hash` hash <br/> |
-
